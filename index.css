@@ -1,6 +1,41 @@
 .header{
     text-align: center;
-    background-color: green;
+    background-color: aqua;
     width: 100%;
     height: 150px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+/* h2{
+    color: black;
+}
+
+.header > h1, h2{
+    color: white;
+} */
+
+.case{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+
+
+img{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+
+button{
+    background-color: aqua;
+    margin: 10px;
+    border-radius: 10%;
+}
+
+button:hover{
+    background-color:rgb(132, 226, 226);
+
 }

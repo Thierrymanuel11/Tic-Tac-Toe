@@ -13,3 +13,6 @@
  # Languges
  The website will use some HTML, CSS and javascript code for the moment.
  It will be possible after to try with another language like python.
+
+
+Link for the acces: https://htmlpreview.github.io/?https://github.com/Thierrymanuel11/Tic-Tac-Toe/blob/main/index.html
